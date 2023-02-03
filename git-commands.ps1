@@ -23,3 +23,10 @@ git status
 # Create branch
 git checkout -b FeatureA
 git status
+git log
+git checkout master
+# Merge branches
+git checkout master
+get merge FeatureA
+
+
