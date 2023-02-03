@@ -20,3 +20,6 @@ git add .
 git status
 git rm --cached FileA.txt
 git status
+# Create branch
+git checkout -b FeatureA
+git status
