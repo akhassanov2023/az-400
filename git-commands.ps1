@@ -28,5 +28,10 @@ git checkout master
 # Merge branches
 git checkout master
 get merge FeatureA
+# Using remote repo
+git remote add origin https://github.com/akhassanov2023/az-400.git
+git push -u origin master
+# commit changes to github
+
 
 
