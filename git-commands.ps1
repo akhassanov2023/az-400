@@ -67,3 +67,6 @@ ref: refs/heads/master
 $ cat .git/refs/heads/master
 35ede5c916f88d8ba5a9dd6afd69fcaf773f70ed
 
+# Merge
+git log --graph
+git checkout -b FeatureC
